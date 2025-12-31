@@ -74,7 +74,7 @@ An RS-530 to fiber converter is a device that converts RS-530 serial signals for
 Most models support both single-mode and multimode fiber depending on distance and application requirements.
 
 ### Are these converters easy to install?  
-Yes — most Versitron RS-530 to fiber converters are designed for simple plug-and-play operation with minimal configuration.
+Yes most Versitron RS-530 to fiber converters are designed for simple plug-and-play operation with minimal configuration.
 
 ---
 
